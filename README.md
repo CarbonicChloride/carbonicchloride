@@ -16,7 +16,10 @@ partnerships@eaglercraft.win
 (If you fork this repository the views add up from the forks unless you remove this in your fork)</p>
 
 > [!NOTE]
-> 
+> Original project can be found at eaglercraftx1-8/eaglercraftx1-8.github.io
+
+
+
 You are welcome to open a pull request to contribute!
 
 > [!IMPORTANT]
